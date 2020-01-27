@@ -19,6 +19,15 @@ h1 {
   width: 200px;
 }
 
+h3 {
+  display: flex;
+  justify-content: center;
+  background-color: green;
+  border: 10px solid black;
+  border-radius: 25px;
+  padding: 10px;
+}
+
 main {
   display: flex;
   justify-content: center;
